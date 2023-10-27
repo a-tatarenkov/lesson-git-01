@@ -1,3 +1,7 @@
 body {
     background-color: #d02323;
 }
+
+body p {
+    font-size: 30px;
+}
